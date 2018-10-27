@@ -13,7 +13,7 @@ count = 0
 
 # check if the number of terms is valid
 if nterms <= 0:
-   print("Please enter a positive integer")
+   print("Please enter a positive integer : ")
 elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    print(n1)
